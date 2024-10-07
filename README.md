@@ -25,7 +25,7 @@ Sanity Esports is an open-source platform designed to host and manage gaming tou
 
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
+To get a local copy up and running follow these simple steps:
 
 ### Prerequisites
 - [Next.js](https://nextjs.org/)
@@ -85,8 +85,8 @@ To get a local copy up and running follow these simple steps.
 ### Registering for a Tournament
 
 1. Log in to your account.
-2. Browse the available tournaments.
-3. Select a tournament and click "Register."
+2. Browse all available tournaments.
+3. Select a tournament, then click "Register."
 4. Follow the on-screen instructions to complete your registration.
 
 ## Configuration
