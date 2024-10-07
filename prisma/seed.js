@@ -16,6 +16,7 @@ async function connectToMongoDB() {
 async function main() {
   await connectToMongoDB();
 
+  
   // Seed Games
   const gameData = [
     {
